@@ -1,6 +1,6 @@
 # Google Quote Extension
 
-A simple Chrome Extension App built from scratch where you get a random success motivation quote injected to google homepage.
+A small Chrome Extension App built from scratch where you get a random success motivation quote injected to google homepage.
 
 ## Screenshot
 
