@@ -1,0 +1,9 @@
+.customColors {
+  background-color: #171717;
+  border-color: #3c4043;
+  max-width: 900px;
+  min-height: 100px;
+}
+.customColors > h6 > span {
+  color: #8a2be2;
+}
